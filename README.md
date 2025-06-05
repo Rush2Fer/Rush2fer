@@ -33,4 +33,4 @@
 ---
 
 📫 **Contact**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ton-linkedin) or directly here on GitHub.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abelkalon-arthur) or directly here on GitHub.
